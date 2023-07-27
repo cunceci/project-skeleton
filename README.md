@@ -17,7 +17,7 @@ This project is a base for building new projects in PHP.
 You can install this project via composer with the following commands:
 
 ```bash
-$ composer create-project --prefer-dist manuelgil/project-skeleton {directory} "2.*"
+$ composer create-project --prefer-dist cunceci/project-skeleton {directory} "2.*"
 ```
 
 ## Configure the project
